@@ -2,6 +2,10 @@
 
 SliceLife is a simple and user-friendly pizza ordering web application developed as part of my **SE Endsem Practicals**. It allows users to browse pizzas, customize their choices, and place orders seamlessly.
 
+> 🚀 **[Live Demo](https://slicelife.vercel.app)**
+
+![App Screenshot](assets/App_screenshot.png)
+
 ## ✨ Features
 - **Modular Architecture**: Clean separation of concerns with dedicated CSS and JS modules for State, UI, Cart, Auth, and Payments.
 - **Dynamic Menu**: Fetches pizza data from a local JSON database.
@@ -17,4 +21,3 @@ SliceLife is a simple and user-friendly pizza ordering web application developed
 - **Frontend**: HTML, CSS, JavaScript
 - **Data Handling**: JSON file for menu, LocalStorage for cart & session
 - **Icons & Fonts**: Google Fonts & SVG icons
-
