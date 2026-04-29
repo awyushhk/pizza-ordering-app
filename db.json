@@ -12,7 +12,7 @@
     "deliveryTime": 25,
     "isVeg": true,
     "ingredients": ["San Marzano Tomato Sauce", "Fior di Latte Mozzarella", "Fresh Basil", "Extra Virgin Olive Oil", "Sea Salt"],
-    "image": "assets/margherita_1777437181853.png",
+    "image": "assets/margherita_1777437181853.webp",
     "reviews": [
       { "name": "Priya S.", "rating": 5, "comment": "Absolutely divine! The best margherita I've ever had. The cheese pull is unreal!", "date": "2 days ago" },
       { "name": "Rahul M.", "rating": 5, "comment": "Simple, fresh, and perfect. My go-to every single time. Never disappoints.", "date": "1 week ago" },
@@ -32,7 +32,7 @@
     "deliveryTime": 28,
     "isVeg": false,
     "ingredients": ["Tomato Sauce", "Aged Pepperoni", "Mozzarella", "Provolone", "Cheddar", "Oregano"],
-    "image": "assets/pepperoni_1777437218294.png",
+    "image": "assets/pepperoni_1777437218294.webp",
     "reviews": [
       { "name": "Aarav T.", "rating": 5, "comment": "The pepperoni cups filled with spicy oil are EVERYTHING. Addictive.", "date": "3 days ago" },
       { "name": "Siddhi P.", "rating": 5, "comment": "Best pepperoni in the city. Period. The cheese is perfect.", "date": "5 days ago" },
@@ -52,7 +52,7 @@
     "deliveryTime": 22,
     "isVeg": true,
     "ingredients": ["Herbed Tomato Sauce", "Mozzarella", "Bell Peppers", "Red Onion", "Mushrooms", "Kalamata Olives", "Sun-Dried Tomatoes"],
-    "image": "assets/veggie_1777437261507.png",
+    "image": "assets/veggie_1777437261507.webp",
     "reviews": [
       { "name": "Nisha R.", "rating": 5, "comment": "Finally a veggie pizza that doesn't feel like a compromise. Absolutely delicious!", "date": "1 day ago" },
       { "name": "Varun L.", "rating": 4, "comment": "Great flavors, very fresh. The olives make it stand out.", "date": "4 days ago" },
@@ -72,7 +72,7 @@
     "deliveryTime": 30,
     "isVeg": false,
     "ingredients": ["House-Made BBQ Sauce", "Grilled Chicken", "Mozzarella", "Red Onion", "Roasted Corn", "Cilantro", "Ranch Drizzle"],
-    "image": "assets/bbq_chicken_1777437336316.png",
+    "image": "assets/bbq_chicken_1777437336316.webp",
     "reviews": [
       { "name": "Rohit D.", "rating": 5, "comment": "The BBQ sauce is unlike anything else. Sweet, smoky, and absolutely perfect.", "date": "2 days ago" },
       { "name": "Pooja A.", "rating": 5, "comment": "Chef's pick is well deserved! The chicken is so tender and the ranch takes it over the top.", "date": "6 days ago" },
@@ -92,7 +92,7 @@
     "deliveryTime": 25,
     "isVeg": false,
     "ingredients": ["Tomato Sauce", "Honey-Mustard Glaze", "Smoked Ham", "Fresh Pineapple", "Mozzarella", "Red Onion"],
-    "image": "assets/hawaiian.png",
+    "image": "assets/hawaiian.webp",
     "reviews": [
       { "name": "Tanya S.", "rating": 5, "comment": "I was a sceptic but this converted me completely. The fresh pineapple is key!", "date": "3 days ago" },
       { "name": "Kunal M.", "rating": 4, "comment": "The honey mustard glaze is genius. Surprisingly balanced flavors.", "date": "1 week ago" },
@@ -112,7 +112,7 @@
     "deliveryTime": 28,
     "isVeg": true,
     "ingredients": ["Makhani Sauce", "Tandoori Paneer", "Capsicum", "Red Onion", "Mozzarella", "Mint Chutney", "Chaat Masala"],
-    "image": "assets/paneer_tikka.png",
+    "image": "assets/paneer_tikka.webp",
     "reviews": [
       { "name": "Shreya N.", "rating": 5, "comment": "This is INSANE. The makhani base + tandoori paneer is a combination made in heaven.", "date": "1 day ago" },
       { "name": "Arjun K.", "rating": 5, "comment": "The chaat masala finish is so clever. Best Indian pizza I've had anywhere!", "date": "3 days ago" },
@@ -132,7 +132,7 @@
     "deliveryTime": 27,
     "isVeg": true,
     "ingredients": ["Garlic Cream Sauce", "Mozzarella", "Gorgonzola", "Aged Parmesan", "Cheddar", "Honey Drizzle", "Fresh Thyme"],
-    "image": "assets/four_cheese.png",
+    "image": "assets/four_cheese.webp",
     "reviews": [
       { "name": "Aditi V.", "rating": 5, "comment": "The honey on four cheese is absolute genius. Rich, decadent, and worth every rupee.", "date": "4 days ago" },
       { "name": "Sanjay K.", "rating": 5, "comment": "If you love cheese, this is your pizza. The gorgonzola gives it a depth that's incredible.", "date": "1 week ago" },
@@ -152,7 +152,7 @@
     "deliveryTime": 26,
     "isVeg": true,
     "ingredients": ["Spicy Salsa Base", "Black Beans", "Roasted Corn", "Jalapeños", "Red Kidney Beans", "Mozzarella", "Sour Cream", "Tortilla Chips"],
-    "image": "assets/mexican_fiesta.png",
+    "image": "assets/mexican_fiesta.webp",
     "reviews": [
       { "name": "Harsh T.", "rating": 5, "comment": "The tortilla chips on top add the most amazing crunch. Absolutely brilliant!", "date": "2 days ago" },
       { "name": "Nidhi P.", "rating": 4, "comment": "Very spicy — exactly as advertised! Loved every bite. The sour cream balances perfectly.", "date": "5 days ago" },
